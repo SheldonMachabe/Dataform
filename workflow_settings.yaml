@@ -1,0 +1,5 @@
+defaultProject: secret-carving-465309-g2
+defaultLocation: africa-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
