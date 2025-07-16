@@ -1,0 +1,5 @@
+config { 
+    type: "table"
+     }
+
+  SELECT "dataform" as name, "GCP" as platform
